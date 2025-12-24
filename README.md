@@ -1,4 +1,4 @@
-# C Basic Codes
+# C-Basic-Codes
 
 A collection of basic C programming codes covering fundamental concepts  
 such as variables, data types, loops, functions, arrays, and pointers.
